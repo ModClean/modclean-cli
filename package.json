@@ -1,0 +1,42 @@
+{
+  "name": "modclean-cli",
+  "version": "1.0.0",
+  "description": "CLI utility for ModClean",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModClean/modclean-cli.git"
+  },
+  "keywords": [
+    "modclean",
+    "cli",
+    "module",
+    "cleanup",
+    "clean",
+    "module-cleanup",
+    "node_modules",
+    "delete",
+    "flatten",
+    "path",
+    "limit",
+    "less",
+    "files",
+    "folders",
+    "prune",
+    "cruft",
+    "delete",
+    "npm"
+  ],
+  "author": "Kyle Ross <thejavascriptguy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ModClean/modclean-cli/issues"
+  },
+  "homepage": "https://github.com/ModClean/modclean-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "modclean": "^3.0.0-beta.1",
+    "ora": "^2.1.0",
+    "progress": "^2.0.0"
+  }
+}
